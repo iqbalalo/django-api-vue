@@ -41,9 +41,9 @@ There are two routes.
 
 To get JSON data (Listing size is 100) 
 ```
-news/
+/news
 ```
 To get HTML View (Listing size is 20) 
 ```
-html/news/
+/html/news
 ```
