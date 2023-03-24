@@ -1,14 +1,10 @@
-# LeadPlus Test case of News data in Django
+# Test case of News data in Django
 
 ## Installation (MAC-OSX)
 ### Pre-requisits:
 - Python >= 3.10
 ### Clone repository
 
-```
-git clone https://github.com/iqbalalo/django-test-leadplus.git
-cd django-test-leadplus
-```
 ### Active virtualenv and Install packages
 ```
 python -m venv venv
